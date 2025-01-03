@@ -1,13 +1,7 @@
 ## 👨‍💻 Hlib samodin 👨‍💻
-##👋 Hi, I’m Hlib. Welcome to my GitHub profile, a collection of abandoned ideas and lost potential. 👋
+👋 Hi, I’m Hlib. Welcome to my GitHub profile, a collection of abandoned ideas and lost potential. 👋
 
 **`Frontend Developer & Content Creator`**
-
-<p align="left">
-  <a href="RIGHT NOW NONE">
-    <img alt="YouTube" title="Right no none!" src=""/>
-  </a>
-</p>
 
 ---
 
