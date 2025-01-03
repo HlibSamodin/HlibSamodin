@@ -1,6 +1,6 @@
 ## 👨‍💻 Hlib Samodin
 
-**`An ordinary guy who wants to hide from life in code`**
+**`An ordinary guy who likes to stare atcendless lines of code`**
 
 <p align="left">
   <a href="https://www.youtube.com/@">
