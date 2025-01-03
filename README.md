@@ -1,7 +1,7 @@
 ## 👨‍💻 Hlib samodin 👨‍💻
 👋 Hi, I’m Hlib. Welcome to my GitHub profile, a collection of abandoned ideas and lost potential. 👋
 
-**`Frontend Developer & Content Creator`**
+**`RIGHT NOW I AM JUST A CHILL  GUY`**
 
 ---
 
