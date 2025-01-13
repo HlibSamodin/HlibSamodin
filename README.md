@@ -1,4 +1,4 @@
-## 👨‍💻 NORVIN
+## 👨‍💻 HLIB SAMODIN
 
 **`An ordinary guy who likes to stare atcendless lines of code`**
 
