@@ -1,4 +1,4 @@
-## 👨‍💻 Hlib Samodin
+## 👨‍💻 NORVIN
 
 **`An ordinary guy who likes to stare atcendless lines of code`**
 
@@ -19,15 +19,8 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
 <br />
-
-
-##      
-### 📺 Latest YouTube Videos
-##    
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS -->
+   
+---
 
 ### 📈 My GitHub Stats
 <p align="center">
@@ -37,4 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HlibSamodin&theme=tokyonight&show" alt="My languages">
 </p>
 
-<h1><p align="center"> <b> 🙏 Thank you for reading my bio! 🙏 </b> </p></h1>
+<p align="center"> <b>  🙏 Thank you for reading my bio! 🙏 </b> </p>
+
+---
