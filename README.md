@@ -35,13 +35,13 @@
  </div>
 
  ###
-
+---
  <p align=center>
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="600">
 <br><br>
  </p>
 
- ###
+---
 
  <h3 align="center">:page_with_curl: Technologies: </h3>
 
@@ -64,6 +64,7 @@
  <br>
 
  ###
+ ---
 <div align="center">
   <h1 align="center">Bye! Thanks for reading! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="750">
