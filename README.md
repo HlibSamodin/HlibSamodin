@@ -5,8 +5,11 @@
  </div>
 
  ###
-
- <h1 align="center">My name is , Hlib and I'm a Front-end Web Developer from the United Kingdom 🇬🇧 (UK)! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
+<div id="header" align="center">
+  <h1>My name is , Hlib and I'm a Front-end Web Developer from the United Kingdom 🇬🇧 (UK)! </h1>
+   <h1> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=600&size=28&pause=1000&color=000000&random=false&width=260&lines=FrontEnd+Developer" alt="Typing SVG" /></a></h1>
+  
+   </div>
 
  ###
 
@@ -47,7 +50,8 @@
  ###
 
  <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css"  height="50"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
   <img width="12" />
