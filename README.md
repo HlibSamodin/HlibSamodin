@@ -1,12 +1,13 @@
 <br clear="both">
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+ <h5>This read.md is meant to look Medival!</h5>
+ <img  width="600" src="https://github.com/user-attachments/assets/32985f59-dc6d-4805-a873-f36db7e33422">
  </div>
 
  ###
 <div id="header" align="center">
-  <h1>My name is , Hlib and I'm a Front-end Web Developer from the United Kingdom 🇬🇧 (UK)! </h1>
+  <h1> Hail, I am Hlib, a skilled craftsman of the Frontend Developing, hailing from the fair lands of the United Kingdom (🇬🇧)! </h1>
    <h1> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=600&size=28&pause=1000&color=000000&random=false&width=260&lines=FrontEnd+Developer" alt="Typing SVG" /></a></h1>
   
    </div>
@@ -30,23 +31,24 @@
 
  <div align="center">
  <p><b>Name: Hlib</b></p>
- <p><b>Age: 13</b></p>
+ <p><b>Age: 13 Winters</b></p>
  <p><b>Region:United Kingdom GB (UK)! </b></p>
  <p><b>Hobbys: Web-Proggramming,Gaming</b></p>
- <p><b>OS: Win11</b></p>
- <p><b>Languages: Ukrainian,Russian,English</b></p>
+ <p><b>Operation Systems: Windows11</b></p>
+ <p><b>Tongues spoken: Ukrainian, Russian, and the English Tongue</b></p>
  </div>
 
  ###
 ---
  <p align=center>
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="600">
+ <img src="https://github.com/user-attachments/assets/4bbf36e1-185d-4387-bbab-c900679facea" width="600">
 <br><br>
  </p>
 
 ---
 
- <h3 align="center">:page_with_curl: Technologies: </h3>
+ <h3 align="center">Technologies That I Do Wield
+ </h3>
 
  ###
 
@@ -62,16 +64,16 @@
 
  ###
 
- <h3 align="center">:fire: My statistics</h3>
+ <h3 align="center">:page_with_curl: Foliant of my coding</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HlibSamodin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HlibSamodin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
  <br>
 
- ###
+
  
 <div align="center">
-  <h1 align="center">Bye! Thanks for reading! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
-<img align="center" height="150" src="https://media.tenor.com/39c7_ZNzC4MAAAAi/silly-cat-silly.gif"  />
+  <h1 align="center""Fare thee well! I extend my heartfelt gratitude for thine attentive reading!"</h1>
+<img  align="center" width="300" src="https://github.com/user-attachments/assets/46c260e1-45fd-4b17-9975-9a017db2d91a"  /> 
 <br><br>
