@@ -28,7 +28,7 @@
  <div align="center">
  <p><b>Name: Hlib</b></p>
  <p><b>Age: 13</b></p>
- <p><b>Region:United Kingdom 🇬🇧 (UK)! </b></p>
+ <p><b>Region:United Kingdom GB (UK)! </b></p>
  <p><b>Hobbys: Web-Proggramming,Gaming</b></p>
  <p><b>OS: Win11</b></p>
  </div>
