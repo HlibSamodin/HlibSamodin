@@ -34,6 +34,7 @@
  <p><b>Region:United Kingdom GB (UK)! </b></p>
  <p><b>Hobbys: Web-Proggramming,Gaming</b></p>
  <p><b>OS: Win11</b></p>
+ <p><b>Languages: Ukrainian,Russian,English</b></p>
  </div>
 
  ###
