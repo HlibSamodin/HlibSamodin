@@ -37,15 +37,10 @@
  <p><b>OS: Win 11/10</b></p>
  <p><b>Languages: Ukrainian, Russian, and English</b></p>
  </div>
-
-
-
-
-
 <br><br>
  <h3 align="center">Technologies</h3>
 
-
+ 
  <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css"  height="50"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
