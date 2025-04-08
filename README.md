@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
- <h5>Happiness is the way of life!</h5>
+ <h5>Grind now , shine later.</h5>
  </div>
 
 
