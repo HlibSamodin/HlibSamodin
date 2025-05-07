@@ -14,7 +14,7 @@
 
 
  <div align="center">
- <a href="https://t.me/TheCodingNorvin" target="_blank">
+ <a href="https://t.me/RealNorvinn" target="_blank">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
  </a>
  <a href="https://www.tiktok.com/@norvintiktok?_t=ZG-8t4LyP0zlvU&_r=1" target="_blank">
