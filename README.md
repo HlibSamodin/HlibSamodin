@@ -17,7 +17,7 @@
  <a href="https://t.me/RealNorvinn" target="_blank">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
  </a>
- <a href="[https://www.tiktok.com/@norvintiktok?_t=ZG-8t4LyP0zlvU&_r=1](https://www.tiktok.com/@real_norvin?is_from_webapp=1&sender_device=pc)" target="_blank">
+ <a href="ttps://www.tiktok.com/@real_norvin?is_from_webapp=1&sender_device=pc" target="_blank">
  <img src="https://img.shields.io/badge/tiktok-%235865F2.svg?style=for-the-badge&logo=tiktok&logoColor=black">
  </a>
  </div>
