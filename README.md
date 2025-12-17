@@ -8,7 +8,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HlibSamodin&color=7F8C8D) 
 
 ###
-  <img align="right" height="400" src="https://github.com/user-attachments/assets/ac51aa0f-6268-4495-906d-a98ad5026edd"  />
+  <img align="right" height="400" src="https://github.com/user-attachments/assets/a312ac80-be4e-41d8-9720-47b8490560d0"  />
 <h3>Front-end (Partial) </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,scss)](https://github.com/HlibSamodin)
