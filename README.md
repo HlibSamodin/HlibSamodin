@@ -1,10 +1,7 @@
-# 📊 GitHub Stats & Skills:
+# Hello, im Hlib i make computers do things
+
+
 <p>
-  <img src="https://github-readme-stats.shion.dev/api?username=HlibSamodin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140em" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HlibSamodin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140em" />
-
-  
-
   <h3>Languages & Frontend</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,python)](https://github.com/HlibSamodin11)
